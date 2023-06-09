@@ -3,7 +3,7 @@ entries:
   gpu-feature-discovery:
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2023-06-09T16:30:21.881072-07:00"
+    created: "2023-06-09T16:37:46.132424-07:00"
     dependencies:
     - alias: nfd
       condition: nfd.deploy,nfd.enabled
@@ -17,6 +17,6 @@ entries:
     name: gpu-feature-discovery
     type: application
     urls:
-    - https://hyperfine.github.io/gpu-feature-discovery/gpu-feature-discovery-0.8.0.tgz
+    - https://hyperfine.github.io/gpu-feature-discovery/gpu-feature-discovery/gpu-feature-discovery-0.8.0.tgz
     version: 0.8.0
-generated: "2023-06-09T16:30:21.878436-07:00"
+generated: "2023-06-09T16:37:46.129895-07:00"
